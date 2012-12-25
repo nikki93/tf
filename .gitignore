@@ -3,7 +3,7 @@
 
 !/cfg/
 !/resource/
-!/script/
+!/scripts/
 !.gitignore
 
 *~
