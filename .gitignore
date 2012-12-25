@@ -4,6 +4,9 @@
 !/cfg/
 !/resource/
 !/scripts/
+!/maps/
+/maps/*
+!/maps/tr_*
 !.gitignore
 
 *~
